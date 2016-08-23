@@ -1,9 +1,0 @@
-C:\Users\sven-\Desktop\Unturned\Servers\test\Rocket\Plugins\BonusXP.dll
-C:\Users\sven-\Desktop\Unturned\Servers\test\Rocket\Plugins\BonusXP.pdb
-C:\Users\sven-\Documents\GitHub\unturned.ROCKS-Plugins\BonusXP\obj\Debug\BonusXP.dll
-C:\Users\sven-\Documents\GitHub\unturned.ROCKS-Plugins\BonusXP\obj\Debug\BonusXP.pdb
-C:\Users\sven-\Documents\GitHub\BonusXP\obj\Debug\BonusXP.dll
-C:\Users\sven-\Documents\GitHub\BonusXP\obj\Debug\BonusXP.pdb
-C:\Users\Desktop\Unturned\Servers\test\Rocket\Plugins\BonusXP.dll
-C:\Users\sven-\Documents\GitHub\BonusXP\bin\Debug\BonusXP.dll
-C:\Users\sven-\Documents\GitHub\BonusXP\bin\Debug\BonusXP.pdb
