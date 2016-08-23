@@ -1,0 +1,10 @@
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\BonusXP.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\BonusXP.pdb
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\Assembly-CSharp.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\Rocket.API.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\Rocket.Core.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\Rocket.Unturned.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\bin\Release\UnityEngine.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\obj\Release\BonusXP.dll
+C:\Users\sven-\Documents\GitHub\BonusXP\obj\Release\BonusXP.pdb
